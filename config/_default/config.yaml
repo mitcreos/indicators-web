@@ -4,8 +4,8 @@ theme: "starter-hugo-research-group"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Indicators for Open and Inclusive Scholarship # Website name
+baseURL: 'https://trackingopen.org/' # Website URL
 
 ############################
 ## LANGUAGE
