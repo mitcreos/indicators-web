@@ -1,19 +1,34 @@
 ---
 content:
   address:
-    city: Stanford
+    city: Cambridge
     country: United States
     country_code: US
-    postcode: "94305"
-    region: CA
-    street: 450 Serra Mall
-  appointment_url: https://calendly.com
+    postcode: "02145"
+    region: MA
+    street: 105 Broadway 
+  appointment_url: 
+  
+  # Contact (edit or remove options as required)
+
+  phone: +1 (585) 466-4224
+  coordinates:
+     latitude: '42.364462288201814' 
+     longitude: '-71.08725348846353'
+  appointment_url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2aOQnTDDtj_HQDORcAQ7TFUTXF2-dAyDrDti_47aym8CLR3r9b14yJYHe0LWnLyaYDVYnyj2jY'
+  contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow Us on Twitter
+    link: 'https://twitter.com/drmaltman'
+
+
   autolink: true
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  email: test@example.org
+
+  email: escience@mit.edu
   form:
     formspree:
       id: null
@@ -21,9 +36,7 @@ content:
       captcha: false
     provider: netlify
   office_hours:
-  - Monday 10:00 to 13:00
-  - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
+  - Thursday 09:00 to 5:00
 design:
   columns: "1"
 headless: true
@@ -33,4 +46,4 @@ weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Please contact us to find out more about the project.
