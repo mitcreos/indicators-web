@@ -4,8 +4,8 @@
 title: Exploring the Public Evidence on Open Access Monographs
 subtitle: ''
 summary: ''
-authors:
-- Micah Altman
+authors: 
+- admin
 
 tags: []
 categories: []

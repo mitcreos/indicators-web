@@ -5,7 +5,7 @@ title: Designing Community Tracking Indicators for Open and Inclusive Scholarshi
 subtitle: ''
 summary: ''
 authors:
-- Micah Altman
+- admin
 
 tags: []
 categories: []

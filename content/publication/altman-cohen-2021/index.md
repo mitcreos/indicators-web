@@ -5,7 +5,7 @@ title: Openness and Diversity in Journal Editorial Boards
 subtitle: ''
 summary: ''
 authors:
-- Micah Altman
+- admin
 - Philip N Cohen
 tags: []
 categories: []
