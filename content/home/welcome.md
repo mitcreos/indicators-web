@@ -7,9 +7,11 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Indicators  
+  for 
+  Open and Inclusive
+  Scholarship
+hero_media: oatrack.svg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,6 +22,4 @@ design:
 
 <br>
 
-There is increasing evidence that scholarly processes have bias and create barriers to inclusion -- more openness in scholarly communication is needed.
-
-**Indicators for Open and Inclusive Scholarship** aims to produce roduce standardized indicators that describe the volume and types of open science output systematically over time. The project lead by [The Center for Research in Equitable and Open Scholarship](https://libraries.mit.edu/creos/), and funded by *the Institute for Museum and Library Services* (grant #LG-250130-OLS-21)
+There is increasing evidence that scholarly processes have bias and create barriers to inclusion -- more openness in scholarly communication is needed**. This project produces standardized indicators of who participates in open science and scholarly communications over time.** It is lead by [The Center for Research in Equitable and Open Scholarship](https://libraries.mit.edu/creos/), and funded by *the Institute for Museum and Library Services* (grant #LG-250130-OLS-21)
