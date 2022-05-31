@@ -1,5 +1,5 @@
 ---
-date: "2022-06-01"
+date: "2022-05-31"
 image:
   focal_point: top
 title: Student Research Opportunity
