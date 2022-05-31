@@ -39,7 +39,7 @@ links:
 - name: Publisher Version
   url: https://hdl.handle.net/1721.1/129690
 - name: Interactive Version
-  url: /post/2020-12-01-exploringom/
+  url: https://dspace.mit.edu/bitstream/handle/1721.1/129690/oamonoblog.html?sequence=2&isAllowed=y
 
 
 ---

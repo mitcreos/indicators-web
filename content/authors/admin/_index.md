@@ -20,7 +20,7 @@ social:
   link: https://github.com/maltman
 
 superuser: true
-title: Micah Altman 
+title: Micah Altman
 user_groups:
 - Researchers
 ---
