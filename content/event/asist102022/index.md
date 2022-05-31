@@ -1,36 +1,33 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract:  
 address:
-  city: Stanford
+  city: Pittsburgh
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: ""
+  region: PA
+  street: 
 all_day: false
 authors: [admin]
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2022-10-29T10:00:00Z"
+date_end: "2022-01-01T17:00:00Z"
+event: "85th Annual Meeting of the 
+Association for Information Science and Technology"
+event_url: https://www.asist.org/am22/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Crisis, Transition, Resilience: Re-Imagining an Information-Resilient Society'
   focal_point: Right
-location: Wowchemy HQ
+location: Pittsburgh
 projects: null
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-30T00:00:00Z"
 slides: null
-summary: An example event.
+summary: CREOS will deliver a talk and short paper on project design at the annual 2022 ASIST conference 
 tags: []
-title: Example Event
+title: Design talk and paper at ASIST
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-{{< gdocs src="https://docs.google.com/..." >}}
-`
+CREOS will be presenting a [short paper](/publication/altman-2022-tracking/) project design for the *ASIST* annual conference, themed "Crisis, Transition, Resilience: Re-Imagining an Information-Resilient Society".

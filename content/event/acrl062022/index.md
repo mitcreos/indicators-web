@@ -1,41 +1,32 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: 
 address:
-  city: Stanford
+  city: 
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: ""
+  region: New England
+  street: 
 all_day: false
-authors: [admin,micah]
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+authors: [admin]
+date: "2022-06-01T10:00:00Z"
+date_end: "2022-06-01T11:00:00Z"
+event: "Annual ACRL-NEC Conference"
+event_url: https://acrlnec.org/annual-conference/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Connection, Disconnection, Reconnection: How Are We Building Community Now?'
   focal_point: Right
-location: Wowchemy HQ
+location: Pi
 projects: null
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-30T00:00:00Z"
 slides: null
-summary: An example event.
+summary:  Webinar on project plans at the annual 2022 ACRL-NEC conference 
 tags: []
-title: Example Event
+title: Project Webinar at ACRL-NEC Conference
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+CREOS will be presenting on project plans at the annual *ACRL-NEC* conference, themed "Connection, Disconnection, Reconnection: How Are We Building Community Now?"
