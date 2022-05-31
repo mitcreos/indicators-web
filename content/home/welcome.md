@@ -22,4 +22,4 @@ design:
 
 <br>
 
-There is increasing evidence that scholarly processes have bias and create barriers to inclusion -- more openness in scholarly communication is needed**. This project produces standardized indicators of who participates in open science and scholarly communications over time.** It is lead by [The Center for Research in Equitable and Open Scholarship](https://libraries.mit.edu/creos/), and funded by *the Institute for Museum and Library Services* (grant #LG-250130-OLS-21)
+**This project produces standardized indicators of who participates in open science and scholarly communications over time.** It is lead by [The Center for Research in Equitable and Open Scholarship](https://libraries.mit.edu/creos/), and funded by the *Institute for Museum and Library Services* (grant #LG-250130-OLS-21)
