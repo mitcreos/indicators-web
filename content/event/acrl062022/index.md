@@ -29,4 +29,6 @@ url_slides: ""
 url_video: ""
 ---
 
-CREOS will be presenting on project plans at the annual *ACRL-NEC* conference, themed "Connection, Disconnection, Reconnection: How Are We Building Community Now?"
+CREOS presents on project plans at the annual *ACRL-NEC* conference, themed "Connection, Disconnection, Reconnection: How Are We Building Community Now?"
+
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRlXCDBdwzPT6741V6AGICRnCOjQ1WCHJM0Tpm-5Cvyl8puUXLu_NoRiLB1hOEeM91lbRul7PP6jwgE/embed?start=false&loop=false&delayms=3000" >}}
